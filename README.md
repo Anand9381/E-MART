@@ -1,8 +1,49 @@
-# React + Vite
+# EMART
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EMART** is a simple React + Vite-based e-commerce application that displays various products and allows users to filter by brand and manage their shopping cart.
 
-Currently, two official plugins are available:
+## 🛍️ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse a variety of products:
+  - Mobiles
+  - Computers
+  - Watches
+  - Men's Wear
+  - Women's Wear
+  - Furniture
+  - Kitchen Appliances
+  - Fridge
+  - Books
+  - Speakers
+  - TVs
+  - ACs
+
+- Click on any product category to view specific appliances.
+
+- Filter products by brand:
+  - Apple
+  - Samsung
+  - Google
+  - OnePlus
+  - Xiaomi
+  - Sony
+  - LG
+  - Motorola
+  - Huawei
+  - Oppo
+  - Nokia
+  - Realme
+
+- Add products to the cart.
+
+- Remove products from the cart.
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone url
+cd emart
+npm install
+npm run dev
